@@ -28,6 +28,7 @@ document.querySelectorAll(".header nav a").forEach(a=>a.addEventListener("click"
 const topButton=document.querySelector(".top");
 window.addEventListener("scroll",()=>topButton.classList.toggle("show",window.scrollY>450),{passive:true});
 topButton.addEventListener("click",()=>window.scrollTo({top:0,behavior:"smooth"}));
+<<<<<<< HEAD
 
 
 // Opening invitation screen
@@ -56,3 +57,5 @@ function addPetal(){
 if(!window.matchMedia("(prefers-reduced-motion: reduce)").matches){
   setInterval(addPetal, 1150);
 }
+=======
+>>>>>>> 6a31446de7d92c8115edd5ed1508aba868601930

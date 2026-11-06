@@ -28,6 +28,7 @@ For this static site use Framework Preset `Other`; leave Build Command, Install 
 - Family contact numbers copied from the supplied invitation: 99920 99724 and 93061 42368
 
 Please verify names, family details, timings, venue spelling and contact numbers before sharing publicly. Gallery panels are decorative placeholders; replace them with your own photos if desired.
+<<<<<<< HEAD
 
 ## Added animations
 - Click-to-open wedding welcome screen
@@ -39,3 +40,5 @@ Please verify names, family details, timings, venue spelling and contact numbers
 
 ## Wedding invitation film
 The website embeds `assets/lakshmi-devender-wedding-film.mp4`. Upload the entire `assets` folder to the root of your GitHub repository along with index.html, style.css and script.js. The film is silent; add licensed music in a video editor if you want a soundtrack.
+=======
+>>>>>>> 6a31446de7d92c8115edd5ed1508aba868601930
