@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700">
+<defs><linearGradient id="red" x2="1" y2="1"><stop stop-color="#9f1028"/><stop offset="1" stop-color="#3b0613"/></linearGradient><linearGradient id="cream" x2="1" y2="1"><stop stop-color="#fff0cf"/><stop offset="1" stop-color="#bd9254"/></linearGradient><linearGradient id="gold"><stop stop-color="#fff0a9"/><stop offset="1" stop-color="#a66b25"/></linearGradient></defs>
+<rect width="900" height="700" rx="20" fill="#f0d9ad"/><path d="M0 0H900V700H0Z" fill="#f5e7ca"/>
+<path d="M90 700V270Q90 70 450 70Q810 70 810 270V700" fill="#e7c48a" stroke="#a36b2d" stroke-width="13"/>
+<path d="M130 700V280Q130 110 450 110Q770 110 770 280V700" fill="#d7e1dc" stroke="#fff1c7" stroke-width="8"/>
+<path d="M170 700V320H730V700" fill="#8a6748" opacity=".25"/>
+<!-- groom -->
+<ellipse cx="570" cy="245" rx="72" ry="86" fill="#b97953"/><path d="M500 225Q495 115 580 115Q665 125 640 230Q615 190 580 190Q540 190 500 225" fill="#21151a"/>
+<path d="M500 165Q570 60 650 150L630 190Q575 165 515 205Z" fill="#a50f2d" stroke="#d7a34e" stroke-width="9"/><path d="M550 115L590 70L630 125" fill="none" stroke="#f3d98c" stroke-width="10"/>
+<path d="M480 335Q570 285 660 335L715 700H420Z" fill="url(#cream)" stroke="#a77837" stroke-width="8"/>
+<path d="M530 330L570 410L610 330" fill="none" stroke="#9d6c32" stroke-width="9"/><path d="M570 410V680" stroke="#b78a48" stroke-width="5"/>
+<!-- bride -->
+<ellipse cx="350" cy="280" rx="70" ry="82" fill="#bd805c"/><path d="M280 270Q265 155 350 145Q435 155 420 275Q390 210 350 215Q310 215 280 270" fill="#20151a"/>
+<path d="M270 240Q210 120 350 95Q490 120 430 270L405 240Q380 175 350 170Q315 180 295 250Z" fill="url(#red)" stroke="#d9ad5d" stroke-width="9"/>
+<path d="M245 360Q350 300 455 360L520 700H180Z" fill="url(#red)" stroke="#d7a34e" stroke-width="9"/>
+<path d="M260 380Q350 430 440 380M230 470Q350 535 470 470M205 570Q350 640 495 570" fill="none" stroke="#f2d48a" stroke-width="8"/>
+<!-- jewellery -->
+<g fill="none" stroke="url(#gold)" stroke-width="8"><path d="M295 315Q350 385 405 315M305 330Q350 420 395 330"/><path d="M530 305Q570 360 610 305"/></g>
+<g fill="#f6d98e"><circle cx="350" cy="198" r="10"/><circle cx="350" cy="340" r="8"/><circle cx="570" cy="310" r="8"/></g>
+<!-- facial features -->
+<g stroke="#3b2020" stroke-width="5" fill="none"><path d="M320 270h22M360 270h22M540 235h20M580 235h20"/><path d="M340 310q12 10 24 0M560 275q10 8 20 0"/></g>
+<!-- flowers -->
+<g fill="#fff0d0"><circle cx="160" cy="190" r="18"/><circle cx="180" cy="170" r="18"/><circle cx="200" cy="190" r="18"/><circle cx="180" cy="210" r="18"/><circle cx="730" cy="210" r="18"/><circle cx="750" cy="190" r="18"/><circle cx="770" cy="210" r="18"/></g>
+<g fill="#bd8b39"><circle cx="180" cy="190" r="8"/><circle cx="750" cy="210" r="8"/></g>
+</svg>

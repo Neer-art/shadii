@@ -1,17 +1,23 @@
-# Lakshmi & Devender — Wedding Invitation
+# Lakshmi ♥ Devender — Wedding Invitation App
 
-Responsive static website built with HTML, CSS and JavaScript.
+A mobile-first, single-page wedding invitation inspired by the uploaded reference video. Built with plain HTML, CSS and JavaScript. No video section is included.
 
-## Deploy
-1. Extract this ZIP.
-2. Upload all files and the complete `assets` folder to the root of your connected GitHub repository.
-3. Commit to `main`; Vercel should automatically deploy.
-4. Use Framework Preset `Other`; no build command is required.
+## Run locally
+Open `index.html` in a browser.
+
+## Deploy to Vercel
+1. Extract the ZIP.
+2. Upload `index.html`, `style.css`, `script.js`, and the complete `assets` folder to the root of your GitHub repository.
+3. Commit to `main`; Vercel will deploy the static site automatically.
+4. Framework preset: Other. No build command or output directory is required.
 
 ## Included
-- Royal maroon, cream and gold responsive design
-- AI-generated traditional wedding illustrations featuring a fictional couple
-- Ladies Sangeet, Chhak-Bhaat, Barat and Dinner event cards
-- Wedding gallery, venue directions and WhatsApp RSVP
+- Burgundy and antique-gold palace-inspired opening screen
+- Invitation and bride/groom family details
+- Save-the-date section
+- Ladies Sangeet, Chhak-Bhaat, Barat and Dinner schedule
+- Venue directions and WhatsApp RSVP
+- Mobile navigation and subtle falling-flower animation
+- Local SVG illustrations; no video or backend required
 
-Please verify the family details, timings, venue wording and phone numbers before publishing. All couple/celebration images are AI-generated illustrations.
+Please verify the family names, timings, contact numbers and venue details before publishing. The couple illustration is decorative artwork, not a photograph of the actual couple.

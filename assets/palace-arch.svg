@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900">
+<defs>
+ <linearGradient id="bg" x2="0" y2="1"><stop stop-color="#17060b"/><stop offset=".55" stop-color="#4b0b1b"/><stop offset="1" stop-color="#17060b"/></linearGradient>
+ <linearGradient id="gold" x2="1" y2="1"><stop stop-color="#fff0b4"/><stop offset=".35" stop-color="#c58b3b"/><stop offset=".7" stop-color="#f8d78b"/><stop offset="1" stop-color="#9d6425"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#f9d995" stop-opacity=".6"/><stop offset="1" stop-color="#f9d995" stop-opacity="0"/></radialGradient>
+ <pattern id="motif" width="70" height="70" patternUnits="userSpaceOnUse"><path d="M35 3 C45 20 58 25 67 35 C50 45 45 58 35 67 C25 50 12 45 3 35 C20 25 25 12 35 3Z" fill="none" stroke="#d4a75c" stroke-opacity=".18" stroke-width="1.5"/><circle cx="35" cy="35" r="4" fill="#e9c57e" fill-opacity=".22"/></pattern>
+</defs>
+<rect width="1200" height="900" fill="url(#bg)"/><rect width="1200" height="900" fill="url(#motif)"/>
+<ellipse cx="600" cy="330" rx="500" ry="420" fill="url(#glow)"/>
+<!-- palace arch -->
+<path d="M110 900V390Q110 85 600 75Q1090 85 1090 390V900" fill="none" stroke="url(#gold)" stroke-width="18"/>
+<path d="M160 900V405Q160 135 600 125Q1040 135 1040 405V900" fill="none" stroke="#f3d28a" stroke-opacity=".6" stroke-width="3"/>
+<path d="M70 900V390Q70 40 600 35Q1130 40 1130 390V900" fill="none" stroke="#b77c32" stroke-width="5"/>
+<!-- pillars -->
+<g fill="none" stroke="url(#gold)" stroke-width="13"><path d="M115 900V475M1085 900V475"/><path d="M75 900H155M1045 900H1125M88 480H142M1058 480H1112"/><path d="M82 530Q130 490 148 530M1052 530Q1070 490 1118 530"/></g>
+<!-- chandelier -->
+<g stroke="url(#gold)" fill="none" stroke-width="5"><path d="M600 0V90M520 90H680M540 90Q600 155 660 90M555 110L530 175M645 110L670 175M600 120V210"/><path d="M500 180Q600 250 700 180M530 180L505 235M670 180L695 235"/></g>
+<g fill="#ffe5a0"><circle cx="530" cy="180" r="10"/><circle cx="670" cy="180" r="10"/><circle cx="600" cy="215" r="13"/><circle cx="505" cy="235" r="8"/><circle cx="695" cy="235" r="8"/></g>
+<!-- floor -->
+<path d="M0 760Q600 650 1200 760V900H0Z" fill="#250710" stroke="#c28b42" stroke-width="4"/>
+<path d="M0 800Q600 700 1200 800M0 850Q600 750 1200 850" fill="none" stroke="#d6ad65" stroke-opacity=".45" stroke-width="3"/>
+</svg>
